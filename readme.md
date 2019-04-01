@@ -15,10 +15,15 @@
 
 ## Guide
 
+### 커리큘럼
+
 - [ 1일차 - CDN 페이징 방식 개발 ](https://github.com/meteopark/edu-react/blob/master/guide/1일차.md) 
 - 2일차 - 모듈 방식 개발 
 - 3일차 - todo 앱 클론 코딩
 - 4일차 - 블로그 클론 코딩
+
+### React 개발 시 알아야 할 부분
+- [named export와 default export의 차이점](https://github.com/meteopark/edu-react/blob/master/guide/2019-04-01-named_export와default_export차이점.md)
 
 ## License
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
