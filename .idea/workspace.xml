@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7cd0007-f31c-4258-9bd6-a212ff4cfc74" name="Default Changelist" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guide/2019-04-01-named_export와default_export차이점.md" afterPath="$PROJECT_DIR$/guide/2019-04-01-named_export와default_export차이점.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -240,12 +239,12 @@
       <updated>1554035444386</updated>
       <workItem from="1554035445712" duration="307000" />
       <workItem from="1554035763724" duration="3131000" />
-      <workItem from="1554083635452" duration="5680000" />
+      <workItem from="1554083635452" duration="5996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9118000" />
+    <option name="totallyTimeSpent" value="9434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="428" y="23" width="1492" height="1057" extended-state="0" />
