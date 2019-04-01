@@ -1,9 +1,9 @@
 # named export 와 default export 차이점
 
-export에는 default export 및 named export 2가지 방법이 있다
+export에는 default export 및 named export 2가지 방법이 있다.
 
 ## named export
-정의된(const) 이름으로 사용 해야하며, 하나의 js파일에서 여러개의 값을 export 시킬 수 있다.
+정의된(const) 이름으로 사용해야 하며, 하나의 js파일에서 여러 개의 값을 export 시킬 수 있다.
 
 ```javascript
 // action.js
@@ -25,7 +25,7 @@ export class A = 100
 ```
 
 ## default export
-js파일내에 하나만 생성해야 하며, import시 아무 이름으로 가져와도 된다.
+js파일 내에 하나만 생성해야 하며, import시 아무 이름으로 가져와도 된다.
 ```javascript
 // A.js
 export default 42
